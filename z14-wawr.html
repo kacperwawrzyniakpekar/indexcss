@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sposoby definiowania kolorów w CSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sposoby definiowania kolorów w CSS</h1>
+    <p>Definicje kolorów</p>
+    <p>Oto różne metody określania kolorów w CSS:</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Definicja koloru</th>
+                <th>Przykład kodu CSS</th>
+                <th>Opis</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Heksadecymalna</td>
+                <td><code>color: #FFFFFF;</code></td>
+                <td>Kolor biały</td>
+            </tr>
+            <tr>
+                <td>RGB</td>
+                <td><code>color: rgb(255, 100, 13);</code></td>
+                <td>Kolor pomarańczowy</td>
+            </tr>
+            <tr>
+                <td>Nazwa koloru</td>
+                <td><code>color: red;</code></td>
+                <td>Kolor czerwony</td>
+            </tr>
+            <tr>
+                <td>RGB z procentami</td>
+                <td><code>color: rgb(10%, 40%, 78%);</code></td>
+                <td>Kolor w odcieniach niebieskiego</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
