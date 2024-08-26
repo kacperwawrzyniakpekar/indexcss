@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+.code-block {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 20px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
