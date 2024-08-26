@@ -8,7 +8,7 @@
     <table width="95%" border="1" align="center">
         <tr>
             <td width="18%" align="center">
-                <marquee bgcolor="red">dodaj tekst</marquee>
+                <marquee bgcolor="red">Wawrzyniak-Pekar</marquee>
                 <p> <font color="green">Linki do zadań</font> </p>
                 <a href="zadanie 2.html" target="content_frame">Zadanie 2</a><br>
                 <a href="zadanie 3.html" target="content_frame">Zadanie 3</a><br>
@@ -33,7 +33,7 @@
 				<a href="zadanie20_wawr_.html" target="content_frame">Zadanie 23</a><br>
             </td>
             <td align="center">
-                <h1>13 Tech. Gdańsk<br>przyjazna szkoła<br>Gdańsk, 24 lutego 2014 r.</h1>
+                <h1>13 Tech. Gdańsk<br>przyjazna szkoła</h1>
 				<marquee bgcolor="red">Pozdrowienia</marquee>
                 <iframe width="650" height="650" name="content_frame" src="start.html" frameborder="0"></iframe>
             </td>
