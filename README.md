@@ -25,18 +25,18 @@
 		<a href="z11_wawr.html" target="content_frame">Zadanie 11</a><br>
 		<a href="z12_wawr.html" target="content_frame">Zadanie 12</a><br>
                 <a href="z13_wawr.html" target="content_frame">Zadanie 13</a><br>
-                <a href="zadanie 14.html" target="content_frame">Zadanie 14</a><br>
-                <a href="zadanie15_wawr.html" target="content_frame">Zadanie 15</a><br>
-                <a href="zadanie 16.html" target="content_frame">Zadanie 16</a><br>
+                <a href="z14_wawr.html" target="content_frame">Zadanie 14</a><br>
+                <a href="z15_wawr.html" target="content_frame">Zadanie 15</a><br>
+                <a href="z16_wawr.html" target="content_frame">Zadanie 16</a><br>
                 <a href="zadanie17_p1_wawr.html" target="content_frame">Zadanie 17p1</a><br>
                 <a href="zadanie17_p2_wawr.html" target="content_frame">Zadanie 17p2</a><br>
                 <a href="zadanie17_p3_wawr.html" target="content_frame">Zadanie 17p3</a><br>
-                <a href="zadanie 18.html" target="content_frame">Zadanie 18</a><br>
-                <a href="zadanie19.html" target="content_frame">Zadanie 19</a><br>
-                <a href="zadanie20.html" target="content_frame">Zadanie 20</a><br>
-                <a href="zadanie 21.html" target="content_frame">Zadanie 21</a><br>
-				<a href="zadanie22.html" target="content_frame">Zadanie 22</a><br>
-				<a href="zadanie20_wawr_.html" target="content_frame">Zadanie 23</a><br>
+                <a href="z18_wawr.html" target="content_frame">Zadanie 18</a><br>
+                <a href="z19_wawr.html" target="content_frame">Zadanie 19</a><br>
+                <a href="z20_wawr.html" target="content_frame">Zadanie 20</a><br>
+                <a href="z21_wawr.html" target="content_frame">Zadanie 21</a><br>
+		<a href="z22_wawr.html" target="content_frame">Zadanie 22</a><br>
+		<a href="zadanie20_wawr_.html" target="content_frame">Zadanie 23</a><br>
             </td>
             <td align="center">
                 <h1>13 Tech. Gdańsk<br>przyjazna szkoła</h1>
