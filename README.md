@@ -11,14 +11,14 @@
                 <marquee bgcolor="red">Wawrzyniak-Pekar</marquee>
                 <p> <font color="green">Linki do zadań</font> </p>
                 <a href="z2_wawr.html" target="content_frame">Zadanie 2</a><br>
-                <a href="zadanie 3.html" target="content_frame">Zadanie 3</a><br>
-                <a href="zadanie 4.html" target="content_frame">Zadanie 4</a><br>
+                <a href="z3_wawr.html" target="content_frame">Zadanie 3</a><br>
+                <a href="z4_wawr.html" target="content_frame">Zadanie 4</a><br>
                 <a href="wawr_z5_4 imoprtowy.html" target="content_frame">Z5-importowany</a><br>
                 <a href="wawr_z5_2 zewnętrzny.html" target="content_frame">Z5-zewnętrzny</a><br>
                 <a href="wawr_z5_3 wewnętrzny.html" target="content_frame">Z5-wewnętrzny</a><br>
                 <a href="wawr_z5_4 liniowy2.html" target="content_frame">Z5-liniowy</a><br>
-                <a href="zadanie 6.html" target="content_frame">Zadanie 6</a><br>
-                <a href="zadanie13_wawr.html" target="content_frame">Zadanie 13</a><br>
+                <a href="z6_wawr.html" target="content_frame">Zadanie 6</a><br>
+                <a href="z13_wawr.html" target="content_frame">Zadanie 13</a><br>
                 <a href="zadanie 14.html" target="content_frame">Zadanie 14</a><br>
                 <a href="zadanie15_wawr.html" target="content_frame">Zadanie 15</a><br>
                 <a href="zadanie 16.html" target="content_frame">Zadanie 16</a><br>
