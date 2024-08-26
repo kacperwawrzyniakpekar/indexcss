@@ -10,7 +10,7 @@
             <td width="18%" align="center">
                 <marquee bgcolor="red">Wawrzyniak-Pekar</marquee>
                 <p> <font color="green">Linki do zadań</font> </p>
-                <a href="zadanie 2.html" target="content_frame">Zadanie 2</a><br>
+                <a href="z2_wawr.html" target="content_frame">Zadanie 2</a><br>
                 <a href="zadanie 3.html" target="content_frame">Zadanie 3</a><br>
                 <a href="zadanie 4.html" target="content_frame">Zadanie 4</a><br>
                 <a href="wawr_z5_4 imoprtowy.html" target="content_frame">Z5-importowany</a><br>
