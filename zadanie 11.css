@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+ol ol {
+    margin-left: 20px;
+}
+
+code {
+    background-color: #e8e8e8;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+}
