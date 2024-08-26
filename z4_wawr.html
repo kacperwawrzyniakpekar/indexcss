@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sposoby podłączania CSS</title>
+    <style>
+        table {
+            width: 100%;
+            margin: 10px 0;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+            font-family: monospace;
+        }
+        .important {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sposoby podłączania CSS do kodu strony WWW</h1>
+    
+    <table>
+        <tr>
+            <td>
+                <p class="important">1. Wewnętrzny (w sekcji &lt;head&gt;)</p>
+                <textarea readonly>
+<head>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+                </textarea>
+            </td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>
+                <p class="important">2. Zewnętrzny plik CSS</p>
+                <textarea readonly>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+                </textarea>
+            </td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>
+                <p class="important">3. Styl inline (wpisany bezpośrednio w atrybucie elementu HTML)</p>
+                <textarea readonly>
+<body style="background-color: lightblue;">
+    <h1>Witaj świecie!</h1>
+</body>
+                </textarea>
+            </td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>
+                <p class="important">4. Importowanie CSS w pliku CSS</p>
+                <textarea readonly>
+/* w pliku CSS */
+@import url("styles.css");
+                </textarea>
+            </td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>
+                <p class="important">5. Stylowanie za pomocą frameworka CSS (np. Bootstrap)</p>
+                <textarea readonly>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+                </textarea>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
