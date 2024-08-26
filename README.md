@@ -18,6 +18,12 @@
                 <a href="wawr_z5_3 wewnętrzny.html" target="content_frame">Z5-wewnętrzny</a><br>
                 <a href="wawr_z5_4 liniowy2.html" target="content_frame">Z5-liniowy</a><br>
                 <a href="z6_wawr.html" target="content_frame">Zadanie 6</a><br>
+		<a href="z7_wawr.html" target="content_frame">Zadanie 7</a><br>
+	        <a href="z8_wawr.html" target="content_frame">Zadanie 8</a><br>
+		<a href="z9_wawr.html" target="content_frame">Zadanie 9</a><br>
+		<a href="z10_wawr.html" target="content_frame">Zadanie 10</a><br>
+		<a href="z11_wawr.html" target="content_frame">Zadanie 11</a><br>
+		<a href="z12_wawr.html" target="content_frame">Zadanie 12</a><br>
                 <a href="z13_wawr.html" target="content_frame">Zadanie 13</a><br>
                 <a href="zadanie 14.html" target="content_frame">Zadanie 14</a><br>
                 <a href="zadanie15_wawr.html" target="content_frame">Zadanie 15</a><br>
