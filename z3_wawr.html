@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porównanie HTML i CSS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Porównanie HTML i CSS</h1>
+    </header>
+
+    <section>
+        <h2>Cechy modyfikowania formatowania</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>HTML</th>
+                    <th>CSS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Podstawowe style za pomocą atrybutów (np. `bgcolor`, `font`)</li>
+                            <li>Style wbudowane w tagach za pomocą atrybutu `style`</li>
+                            <li>Brak zaawansowanych opcji formatowania</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>Rozdzielenie treści od prezentacji</li>
+                            <li>Zaawansowane formatowanie (układy, animacje, efekty graficzne)</li>
+                            <li>Media Queries dla responsywności</li>
+                            <li>Klasy i identyfikatory do precyzyjnego stylizowania</li>
+                            <li>Preprocesory CSS (SASS, LESS) dla zaawansowanych funkcji</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Nowe możliwości CSS w porównaniu z HTML</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Możliwość CSS</th>
+                    <th>Opis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Flexbox i Grid Layout</td>
+                    <td>Zaawansowane metody układu strony, elastyczne i responsywne układy.</td>
+                </tr>
+                <tr>
+                    <td>Przejścia i Animacje</td>
+                    <td>Tworzenie płynnych przejść i animacji bez użycia JavaScriptu.</td>
+                </tr>
+                <tr>
+                    <td>Filtrowanie i Efekty Graficzne</td>
+                    <td>Stosowanie filtrów graficznych takich jak rozmycie, kontrast.</td>
+                </tr>
+                <tr>
+                    <td>Wielowarstwowość</td>
+                    <td>Efekty warstwowania z użyciem `z-index`.</td>
+                </tr>
+                <tr>
+                    <td>Custom Properties (Zmienne CSS)</td>
+                    <td>Definiowanie zmiennych do przechowywania wartości i ich późniejszego wykorzystania.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>Wady CSS</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Wada</th>
+                    <th>Opis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Problemy z Kompatybilnością</td>
+                    <td>Różne przeglądarki mogą interpretować reguły CSS w różny sposób.</td>
+                </tr>
+                <tr>
+                    <td>Trudności w Debuggingu</td>
+                    <td>Skomplikowane style mogą być trudne do debugowania, zwłaszcza przy wielu arkuszach stylów.</td>
+                </tr>
+                <tr>
+                    <td>Wydajność</td>
+                    <td>Duża liczba reguł CSS lub złożone selektory mogą wpływać na wydajność ładowania strony.</td>
+                </tr>
+                <tr>
+                    <td>Złożoność Przy Skalowaniu</td>
+                    <td>W miarę jak projekt rośnie, zarządzanie dużymi arkuszami stylów może stać się nieefektywne.</td>
+                </tr>
+                <tr>
+                    <td>Kaskadowość i Dziedziczenie</td>
+                    <td>Kaskadowość i dziedziczenie mogą prowadzić do nieoczekiwanych rezultatów.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</body>
+</html>
