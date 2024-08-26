@@ -1,0 +1,42 @@
+/* Style dla całego dokumentu */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Style dla nagłówków */
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+/* Style dla ramki wokół kodów */
+.box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+pre {
+    margin: 0;
+    font-size: 14px;
+}
+
+/* Style dla kodu */
+code {
+    font-family: monospace;
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Style dla list punktowanych */
+ul {
+    list-style-type: disc;
+    margin: 10px 0;
+    padding-left: 20px;
+}
