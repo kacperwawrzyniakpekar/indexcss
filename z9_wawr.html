@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zadanie 9: Opis stylu zewnętrznego</title>
+    <link rel="stylesheet" href="styles9.css">
+</head>
+<body>
+    <h1>Zadanie 9: Opis stylu zewnętrznego</h1>
+
+    <h2>1. Składnia teoretyczna</h2>
+    <div class="box">
+        <pre><code>
+selector {
+    property: value;
+}
+        </code></pre>
+    </div>
+    <p>W składni CSS:</p>
+    <ul>
+        <li><strong>selector</strong> oznacza element HTML, do którego stosowany jest styl.</li>
+        <li><strong>property</strong> to właściwość CSS, którą chcesz ustawić.</li>
+        <li><strong>value</strong> to wartość przypisywana właściwości.</li>
+    </ul>
+
+    <h2>2. Gdzie wstawiany jest styl zewnętrzny, jaki znacznik jest za to odpowiedzialny oraz ile razy może on występować w dokumencie, jako podłączenie stylu CSS?</h2>
+    <p>Styl zewnętrzny jest wstawiany w sekcji <code>&lt;head&gt;</code> dokumentu HTML. Znacznik odpowiedzialny za to to <code>&lt;link&gt;</code>. Może występować jeden raz w dokumencie HTML jako podłączenie stylu CSS.</p>
+
+    <h2>3. Jak jest najprostsza forma wstawiania stylu zewnętrznego</h2>
+    <div class="box">
+        <pre><code>
+&lt;link rel="stylesheet" href="styles.css"&gt;
+        </code></pre>
+    </div>
+    <p>W tym przykładzie <code>rel</code> określa relację między dokumentem a zewnętrznym plikiem CSS, a <code>href</code> wskazuje lokalizację pliku stylów.</p>
+
+    <h2>4. Ile arkuszy styli może być dołączanych do jednego dokumentu HTML oraz jaka zasada musi być zachowana przy większej ilości dołączanych styli?</h2>
+    <p>Można dołączyć wiele arkuszy styli do jednego dokumentu HTML. W przypadku większej liczby arkuszy styli, należy zachować kolejność, w jakiej są one dołączane, ponieważ style z późniejszych arkuszy mogą nadpisywać style z wcześniejszych.</p>
+
+    <h2>5. Co się dzieje w przypadku konfliktów? Przez konflikt rozumiemy, gdy te same style są definiowane w różnych arkuszach styli podłączone do tego samego arkusza.</h2>
+    <p>W przypadku konfliktów, ostateczny styl jest określany przez specyfikację CSS, czyli zasadę kaskadowania. Style z późniejszych arkuszy lub bardziej specyficzne selektory nadpiszą style z wcześniejszych arkuszy.</p>
+
+    <h2>6. Jak są tworzone i edytowane pliki arkuszy z użyciem edytora tekstowego?</h2>
+    <p>Pliki arkuszy stylów mogą być tworzone i edytowane w dowolnym edytorze tekstowym, takim jak Notepad++ czy Sublime Text. Wystarczy zapisać plik z rozszerzeniem <code>.css</code> i wprowadzać zmiany w składni CSS.</p>
+
+    <h2>7. Jak są tworzone i edytowane pliki arkuszy z użyciem specjalnego edytora CSS?</h2>
+    <p>Specjalistyczne edytory CSS, takie jak Adobe Brackets czy Visual Studio Code, oferują funkcje ułatwiające pisanie CSS, takie jak podpowiedzi składniowe, automatyczne uzupełnianie i wizualizacje. Pliki tworzy się podobnie jak w edytorze tekstowym, ale edytory te oferują dodatkowe narzędzia do zarządzania stylami.</p>
+
+    <h2>8. Jakie rozszerzenie posiada plik będący zewnętrznym arkuszem styli?</h2>
+    <p>Pliki zewnętrznych arkuszy styli mają rozszerzenie <code>.css</code>.</p>
+
+    <h2>9. Jakie są zalety zewnętrznego arkusza styli?</h2>
+    <ul>
+        <li><strong>Łatwość zarządzania</strong> - Centralne miejsce na wszystkie style pozwala na łatwiejszą edycję i utrzymanie kodu.</li>
+        <li><strong>Lepsza organizacja</strong> - Oddziela treść od stylów, co ułatwia pracę nad kodem HTML i CSS niezależnie.</li>
+    </ul>
+
+    <h2>10. Uwagi na temat pisania w CSS</h2>
+    <ul>
+        <li><strong>Konsystencja</strong> - Stosuj spójną konwencję nazewnictwa i formatowania, aby kod był czytelny.</li>
+        <li><strong>Optymalizacja</strong> - Unikaj nadmiernego użycia zagnieżdżonych selektorów, aby zwiększyć wydajność i przejrzystość kodu.</li>
+        <li><strong>Komentarze</strong> - Dodawaj komentarze, aby wyjaśnić trudniejsze fragmenty kodu lub zamierzenia.</li>
+    </ul>
+</body>
+</html>
