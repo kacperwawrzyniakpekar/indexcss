@@ -1,0 +1,14 @@
+p {
+    color: red;
+    font-size: 22pt;
+}
+#gruby_wawrzyniak-pekar {
+    color: green;
+    font-size: 17pt;
+    font-weight: bold;
+}
+#dlawszyskich_wawrzyniak-pekar {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial, sans-serif;
+}
