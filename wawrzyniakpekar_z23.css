@@ -1,0 +1,38 @@
+p#pogrubienie_wawrzyniakpekar {
+    font-size: 40px;
+    color: #7d4c82;
+}
+
+p#pochylona_wawrzyniakpekar {
+    font-size: 45pt;
+    color: #e76b64;
+    font-style: italic;
+}
+
+p#index_gorny_wawrzyniakpekar {
+    font-size: 2cm;
+    color: #911164;
+    vertical-align: super;
+}
+
+p#index_dolny_wawrzyniakpekar {
+    font-size: 3.5cm;
+    color: rgba(53%, 242%, 224%);
+    vertical-align: sub;
+}
+
+p#mono_wawrzyniakpekar {
+    font-size: 50px;
+    color: #2ba64;
+    font-family: monospace;
+}
+
+p#powiekszenie_wawrzyniakpekar {
+    font-size: 45px;
+    color: #6b462e;
+}
+
+p#pomniejszenie_wawrzyniakpekar {
+    font-size: 10px;
+    color: rgba(48%, 162%, 54%);
+}
