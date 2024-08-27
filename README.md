@@ -36,7 +36,7 @@
                 <a href="z20_wawr.html" target="content_frame">Zadanie 20</a><br>
                 <a href="z21_wawr.html" target="content_frame">Zadanie 21</a><br>
 		<a href="z22_wawr.html" target="content_frame">Zadanie 22</a><br>
-		<a href="z23_wawr_.html" target="content_frame">Zadanie 23</a><br>
+		<a href="z23_wawr.html" target="content_frame">Zadanie 23</a><br>
             </td>
             <td align="center">
                 <h1>13 Tech. Gdańsk<br>przyjazna szkoła</h1>
