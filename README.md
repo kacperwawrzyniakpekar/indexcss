@@ -40,7 +40,7 @@
             </td>
             <td align="center">
                 <h1>13 Tech. Gdańsk<br>przyjazna szkoła</h1>
-				<marquee bgcolor="red">Pozdrowienia</marquee>
+		<marquee bgcolor="red">Pozdrowienia</marquee>
                 <iframe width="650" height="650" name="content_frame" src="start.html" frameborder="0"></iframe>
             </td>
             <td width="18%" align="center">
