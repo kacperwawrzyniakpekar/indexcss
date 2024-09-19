@@ -63,7 +63,7 @@
 		<a href="Z22_kod.html" target="content_frame">Z22_kod</a><br>
 		<a href="Z23_kod.html" target="content_frame">Z23_kod</a><br>
 		<a href="Wawr_Z33_kod.html" target="content_frame">Z33_kod</a><br>
-		<a href="WawrZ34_kod.html" target="content_frame">Z34_kod</a><br>
+		<a href="Wawr_Z34_kod.html" target="content_frame">Z34_kod</a><br>
             </td>
         </tr>
     </table>
