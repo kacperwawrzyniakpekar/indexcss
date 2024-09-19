@@ -37,10 +37,10 @@
                 <a href="z21_wawr.html" target="content_frame">Zadanie 21</a><br>
 		<a href="z22_wawr.html" target="content_frame">Zadanie 22</a><br>
 		<a href="zadanie20_wawr_.html" target="content_frame">Zadanie 23</a><br>
-		<a href="Wawr_Z32.html" target="content_frame">Z23_kod</a><br>
-		<a href="Wawr_Z33.html" target="content_frame">Z23_kod</a><br>
-		<a href="Wawr_Z34.html" target="content_frame">Z23_kod</a><br>
-		<a href="Wawr_Z35.html" target="content_frame">Z23_kod</a><br>
+		<a href="Wawr_Z32.html" target="content_frame">Z 32</a><br>
+		<a href="Wawr_Z33.html" target="content_frame">Z 33</a><br>
+		<a href="Wawr_Z34.html" target="content_frame">Z 34</a><br>
+		<a href="Wawr_Z35.html" target="content_frame">Z 35</a><br>
             </td>
             <td align="center">
                 <h1>13 Tech. Gdańsk<br>przyjazna szkoła</h1>
@@ -63,8 +63,8 @@
                 <a href="Z20_kod.html" target="content_frame">Z20_kod</a><br>
 		<a href="Z22_kod.html" target="content_frame">Z22_kod</a><br>
 		<a href="Z23_kod.html" target="content_frame">Z23_kod</a><br>
-		<a href="Wawr_Z33_kod.html" target="content_frame">Z23_kod</a><br>
-		<a href="Wawr_Z34_kod.html" target="content_frame">Z23_kod</a><br>
+		<a href="Wawr_Z33_kod.html" target="content_frame">Z33_kod</a><br>
+		<a href="Wawr_Z34_kod.html" target="content_frame">Z34_kod</a><br>
             </td>
         </tr>
     </table>
